@@ -6,7 +6,7 @@
    "metadata": {},
    "source": [
     "# Assignment 2\n",
-    "### Aravind Kannan Rathinasabapathi"
+    "### sindhumathi"
    ]
   },
   {
